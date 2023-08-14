@@ -67,7 +67,7 @@ def get_response(user_message: str, message_info: list) -> str:
 def help():
   help = f''' 
   !help - Gives a list of commands
-  !sleep - Gives recommended sleep time based on users inputs.
+  !sleep - Times how long you slept for.
   !exercise - Give it a workout area(push - chest, shoulders, triceps) (Pull - back, biceps) (legs - quads, hamstrings, calves) and it will give you exercises based on what you chose. For example !exercise push chest
   !food - Gives a link to a search engine that matches foods and their ID
   !nutrition - Gives the nutritional values of your diet.
